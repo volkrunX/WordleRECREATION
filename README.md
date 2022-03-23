@@ -8,4 +8,4 @@ ALSO MAKE SURE YOU INSTALL COLORAMA
 pip install colorama
 ```
 
-write a 5 letter word genius
+then write a 5 letter word genius
